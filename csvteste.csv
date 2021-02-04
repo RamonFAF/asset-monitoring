@@ -1,0 +1,5 @@
+celulas,carga_especifica,tensao,corrente,tempo1,carga,tempo2
+1,0.1,5,5,1,0.2,2
+2,0.3,20,20,2,1,3
+3,0.3,50,50,3,0.6,12
+4,0.4,100,100,4,0.4,14
